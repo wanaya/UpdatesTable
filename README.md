@@ -1,2 +1,2 @@
 # UpdatesTable
-A way to update data sorce
+A way to update data source
